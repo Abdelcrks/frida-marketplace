@@ -267,7 +267,7 @@ export default function AccountClient({
         </div>
       </div>
 
-      {/* MODAL AJOUT PRODUIT */}
+      {/* POP UP AJOUT PRODUIT */}
       {showForm && (
         <div
           className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 p-4"
